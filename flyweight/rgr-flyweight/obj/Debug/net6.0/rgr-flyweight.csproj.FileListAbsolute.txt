@@ -1,0 +1,14 @@
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\bin\Debug\net6.0\rgr-flyweight.exe
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\bin\Debug\net6.0\rgr-flyweight.deps.json
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\bin\Debug\net6.0\rgr-flyweight.runtimeconfig.json
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\bin\Debug\net6.0\rgr-flyweight.dll
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\bin\Debug\net6.0\rgr-flyweight.pdb
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\obj\Debug\net6.0\rgr-flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\obj\Debug\net6.0\rgr-flyweight.AssemblyInfoInputs.cache
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\obj\Debug\net6.0\rgr-flyweight.AssemblyInfo.cs
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\obj\Debug\net6.0\rgr-flyweight.csproj.CoreCompileInputs.cache
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\obj\Debug\net6.0\rgr-flyweight.dll
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\obj\Debug\net6.0\refint\rgr-flyweight.dll
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\obj\Debug\net6.0\rgr-flyweight.pdb
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\obj\Debug\net6.0\rgr-flyweight.genruntimeconfig.cache
+C:\Users\maxli\source\repos\rgr-flyweight\rgr-flyweight\obj\Debug\net6.0\ref\rgr-flyweight.dll
