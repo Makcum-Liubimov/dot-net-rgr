@@ -42,7 +42,7 @@ classDiagram
     Creator <|-- ConcreteCreatorB
 
     Creator --> Product : FactoryMethod()
-
+```
 ## flyweight
 
 ### UML Diagram
