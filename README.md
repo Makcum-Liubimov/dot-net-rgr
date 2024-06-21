@@ -379,7 +379,7 @@ classDiagram
 ```
 
 ### thread-pool c# code
-```cshrap
+```csharp
 using System;
 using System.Threading;
 
