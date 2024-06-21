@@ -432,3 +432,7 @@ class Program
 }
 
 ```
+### thread-pool discription
+- Встановлюємо максимальну кількість потоків у пулі за допомогою ThreadPool.SetMaxThreads.
+- Додаємо 10 завдань до пулу потоків за допомогою ThreadPool.QueueUserWorkItem.
+- Метод Task виконує завдання та імітує тривалу операцію за допомогою Thread.Sleep.
