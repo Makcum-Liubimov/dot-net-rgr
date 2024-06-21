@@ -1,0 +1,14 @@
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\bin\Debug\net6.0\rgr-thread-pool.exe
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\bin\Debug\net6.0\rgr-thread-pool.deps.json
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\bin\Debug\net6.0\rgr-thread-pool.runtimeconfig.json
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\bin\Debug\net6.0\rgr-thread-pool.dll
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\bin\Debug\net6.0\rgr-thread-pool.pdb
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\obj\Debug\net6.0\rgr-thread-pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\obj\Debug\net6.0\rgr-thread-pool.AssemblyInfoInputs.cache
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\obj\Debug\net6.0\rgr-thread-pool.AssemblyInfo.cs
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\obj\Debug\net6.0\rgr-thread-pool.csproj.CoreCompileInputs.cache
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\obj\Debug\net6.0\rgr-thread-pool.dll
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\obj\Debug\net6.0\refint\rgr-thread-pool.dll
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\obj\Debug\net6.0\rgr-thread-pool.pdb
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\obj\Debug\net6.0\rgr-thread-pool.genruntimeconfig.cache
+C:\Users\maxli\source\repos\rgr-thread-pool\rgr-thread-pool\obj\Debug\net6.0\ref\rgr-thread-pool.dll
