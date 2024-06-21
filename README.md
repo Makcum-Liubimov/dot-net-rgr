@@ -1,4 +1,4 @@
-# dot-net-labs-rgr
+# dot-net-rgr
 
 # C# Design Patterns
 
